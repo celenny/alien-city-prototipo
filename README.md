@@ -1,2 +1,2 @@
 # Alien City
- Prototipos jogo Alien city - Senac Ead
+ Prototipo jogo Alien city - Senac Ead
